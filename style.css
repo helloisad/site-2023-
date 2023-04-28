@@ -1,0 +1,17 @@
+.cabeçalho{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content:space-around ; 
+    font-size: 25px;
+}
+
+.cabeçalho-lista{
+    background-color: rgb(118, 17, 17);
+    color: rgb(16, 18, 20);
+    
+}  
+
+.cabeçalho-item{
+
+}
